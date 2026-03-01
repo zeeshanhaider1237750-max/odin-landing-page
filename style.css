@@ -71,5 +71,46 @@ body{
 .random{
     font-weight: bold;
     text-align: center;
-    text-s
+    font-size: 28px;
+    padding: 10px 0px 10px 0px;
+}
+.white{
+    margin: 10px 100px 0px 100px;
+   padding: ;
+}
+.options{
+    display: flex;
+    text-align: center;
+    padding: 0px 10px 0px 10px;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 15px;
+}
+.box-1{
+    display: flex;
+    border: 3px solid blue;
+    border-radius: 14px;
+    width: 130px;
+    height: 130px;
+}
+.box-2{
+ display: flex;
+    border: 3px solid blue;
+    border-radius: 14px;
+    width: 130px;
+    height: 130px;
+}
+.box-3{
+ display: flex;
+    border: 3px solid blue;
+    border-radius: 14px;
+    width: 130px;
+    height: 130px;
+}
+.box-4{
+ display: flex;
+    border: 3px solid blue;
+    border-radius: 14px;
+    width: 130px;
+    height: 130px;
 }
