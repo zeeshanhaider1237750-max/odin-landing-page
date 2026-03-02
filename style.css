@@ -118,6 +118,11 @@ flex: 1;
     flex-direction: column;
     text-wrap: wrap;
 }
+.author{
+    font-size: 20px;
+    font-weight: 680px;
+    text-align: right;
+}
 .text-one{
     display: flex;
     max-width: 700px;
