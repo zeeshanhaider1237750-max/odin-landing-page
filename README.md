@@ -20,3 +20,5 @@ I was adding fixed models rather than responsive one.
 I searched alot and then google AI gave me complete CSS file which i copied pasted but i couldn't understand it and then I erased it and started again and then I notice that i was only lefting some unique properties like flex, margin(with 0 auto;) and many more.
 I created my hero section again successfully and this time my speed was even more.
 I finally then completed random information area and then commited it again.
+I hadn't any problems with the quote and the left-over section and every thing was seemengly fine.
+I commited my folder and then turn towards the next objective.
