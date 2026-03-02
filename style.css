@@ -19,6 +19,7 @@ body{
     justify-content: space-between;
      max-width: 1000px;
     margin: 0 auto;
+    text-wrap: wrap;
 }
 .header-link{
     display: flex;
@@ -33,6 +34,7 @@ body{
     justify-content: space-between;
     padding: 50px 0;
     gap: 50px;
+    text-wrap: wrap;
 }
 .black-content{
 flex: 1;
@@ -69,10 +71,11 @@ flex: 1;
     text-align: center;
 }
 .white{
-    max-width: 900px;
+    max-width:900px;
     margin: 0 auto;
     margin-top: 50px;
     margin-bottom: 140px;
+    text-wrap: wrap;
 }
 .random{
     text-align: center;
@@ -83,6 +86,9 @@ flex: 1;
 .options{
     display: flex;
     justify-content: space-between;
+    text-wrap: wrap;
+    gap: 50px;
+    
 }
 .box-1 ,.box-2 ,.box-3 ,.box-4{
     border-radius: 15px;
@@ -99,10 +105,68 @@ flex: 1;
     font-weight:300
 }
 .grey{
-    max-width: 900px;
+    max-width: 750px;
     margin: 0 auto;
+    display: flex;
+    flex-direction: column;
 }
 .quote{
-        background-color: #E5E7EB;
-
+    background-color: #E5E7EB;
+    padding: 100px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    text-wrap: wrap;
+}
+.text-one{
+    display: flex;
+    max-width: 700px;
+    font-style: italic;
+    font-size:  36px;
+    font-weight: 300;
+    color: #1F2937;
+    line-height: 1.1;
+}
+.texting{
+    display: flex;
+    margin: 50px auto;
+    max-width: 800px;
+    background-color: #3882F6;
+    justify-content: space-between;
+    padding: 40px 80px;
+    color: white;
+    border-radius: 8px;
+    text-wrap: wrap;
+}
+.rule-text{
+    font-size: 20px;
+    font-weight: 650;
+}
+.focus{
+    line-height: 1.1;
+}
+.hell-rule{
+    font-size: 18px;
+    font-weight: 300;
+}
+.fire{
+    border: 2px solid white;
+    border-radius: 5px;
+    max-width: 120px;
+    max-height: 30px;
+    min-height: 30px;
+    min-width: 120px;
+    border-radius: 10px;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 500;
+}
+.clock-two{
+    color: white;
+    background-color: #1F2937;
+    margin: 0 auto;
+    text-align: center;
+    padding: 40px;
+    font-size: 20px;
+    font-weight: 200;
 }
